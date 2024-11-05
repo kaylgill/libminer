@@ -2,3 +2,4 @@
 
 export(lib_summary)
 importFrom(purrr,map)
+importFrom(purrr,map_dbl)
