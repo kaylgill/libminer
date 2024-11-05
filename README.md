@@ -4,6 +4,8 @@
 # libminer
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/kaylgill/libminer/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/kaylgill/libminer/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of libminer is to …
@@ -29,9 +31,9 @@ lib_summary()
 #>                                                                        Library
 #> 1                                           C:/Program Files/R/R-4.3.1/library
 #> 2                          C:/Users/gillespiek/AppData/Local/R/win-library/4.3
-#> 3 C:/Users/gillespiek/AppData/Local/Temp/1/Rtmpkrk3zX/temp_libpath5a082ad33bb6
+#> 3 C:/Users/gillespiek/AppData/Local/Temp/1/RtmpQHN768/temp_libpath2fcc70245b76
 #>   n_packages
 #> 1         29
-#> 2        250
+#> 2        252
 #> 3          1
 ```
