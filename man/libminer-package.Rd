@@ -6,7 +6,7 @@
 \alias{libminer-package}
 \title{libminer: Explore Your R Libraries}
 \description{
-What the package does (one paragraph).
+Generates a data frame of installed packages
 }
 \seealso{
 Useful links:
