@@ -12,6 +12,7 @@ What the package does (one paragraph).
 Useful links:
 \itemize{
   \item \url{https://github.com/kaylgill/libminer}
+  \item \url{https://kaylgill.github.io/libminer/}
   \item Report bugs at \url{https://github.com/kaylgill/libminer/issues}
 }
 
